@@ -2,6 +2,13 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        
+        <AssemblyVersion>1.0.0</AssemblyVersion>
+        <PackageVersion>1.0.0</PackageVersion>
+        <FileVersion>1.0.0</FileVersion>
+        
+        <Title>Base36</Title>
+        
     </PropertyGroup>
 
 </Project>

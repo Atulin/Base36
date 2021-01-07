@@ -1,9 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\Angius\AppData\Local\JetBrains\Rider2020.3\resharper-host\temp\Rider\vAny\CoverageData\_Base36.-1751499675\Snapshot\snapshot.utdcvr</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=45a99846_002Dbe3c_002D4236_002D8db7_002D81aa07a15ab4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="StaticEncodingIsCorrect" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::9C08C9CF-B379-4AF5-9B58-6843F74FB4A6::net5.0::Base36.Test.EncodingTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::9C08C9CF-B379-4AF5-9B58-6843F74FB4A6::net5.0::Base36.Test.DecodingTest.Static_Decoding_IsCorrect&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::9C08C9CF-B379-4AF5-9B58-6843F74FB4A6::net5.0::Base36.Test.DecodingTest&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
