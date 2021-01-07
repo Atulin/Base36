@@ -8,6 +8,8 @@
         <FileVersion>1.0.0</FileVersion>
         
         <Title>Base36</Title>
+        <RepositoryUrl>https://github.com/Atulin/Base36</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
         
     </PropertyGroup>
 
