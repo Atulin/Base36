@@ -1,6 +1,8 @@
 # Base36
 
-![Build and test](https://github.com/Atulin/Base36/workflows/Build%20and%20test/badge.svg)
+![Build](https://github.com/Atulin/Base36/workflows/Build/badge.svg)
+![Test](https://github.com/Atulin/Base36/workflows/Test/badge.svg)
+![Publish](https://github.com/Atulin/Base36/workflows/Publish/badge.svg)
 
 ## Usage
 
